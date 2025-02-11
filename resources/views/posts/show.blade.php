@@ -7,6 +7,6 @@
     <title>Laravel 11 | Post</title>
 </head>
 <body>
-    <h1>mostrar post con Show <?php=$post; ?> </h1>
+    <h1>mostrar post con Show {{$post}} </h1>
 </body>
 </html>
